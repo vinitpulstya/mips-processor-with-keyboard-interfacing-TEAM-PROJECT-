@@ -2,7 +2,7 @@
 ----------------------------------------------> sagarvats4740@gmail.com, mudit.thakral98@gmail.com and vinitsharma9876@gmail.com <-------------------------
  Engineer to be
 
-MIPS 16-BIT WITH KEYBOARD INTERFACING
+MIPS 16-BIT WITH KEYBOARD INTERFACING	(coded on XILINX ISE DESIGN SUITE 14.7)
 
 This project is a verilog code for a 5 stage pipelined mips processor. The rar file contains the test bench too. This architeture is modified to have improved functionality, since we made 16-bit.
 The code is synthesizable for SPARTAN 6 XC6SLX45 FPGA, exceededs the hardware of FPGA, though it will work on other fpga's with adequate hardware, there is no constraint file included.
